@@ -1,0 +1,24 @@
+B,Hobie,16,2019,7800
+H,Bungalow,163.0,1445,3,3
+A,Pontiac,Vibe,2007,2300
+H,Cottage,163.0,1345,3,3
+H,TwoStory,163.0,2045,4,4
+J,Cassio Watch,plastic,,29.00
+J,Nose Ring,gold,,1200
+A,Chevrolet,Bel Air,1957,31000
+J,Necklace,diamond,gold,19000
+J,Watch,gold,diamond,29000.00
+H,Bungalow,163.0,1445,3,2
+H,Ranch,163.0,1345,3,2
+B,Catalina,30,1975,9950
+A,Ford,Mustang,2020,41900
+B,Pearson,42,1995,38000
+H,Ranch,163.0,1445,4,2
+H,Bungalow,163.0,1445,2,2
+H,SplitLevel,163.0,2245,5,2
+B,Hunter,32,1990,50000
+J,Bracelet,diamond,silver,9100
+A,Nisan,Rogue,2019,19200
+B,Prindle,19,2010,3900
+J,Wedding Ring,gold,,1100
+A,Chevrolet,Covair,1967,18900
